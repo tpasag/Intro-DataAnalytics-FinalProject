@@ -1,2 +1,2 @@
-# project1
-project 1 for data sci classs
+# Assignments for Intro Data Analytics Boot Camp
+
